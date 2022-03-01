@@ -1,0 +1,10 @@
+,EmployeeID,Name,City,Country,Region,hiredate
+0,1,Davolio,Seattle,USA,North America,2024-05-01
+1,2,Fuller,Tacoma,USA,North America,2024-08-14
+2,3,Leverling,Kirkland,USA,North America,2024-04-01
+3,4,Peacock,Redmond,USA,North America,2025-05-03
+4,5,Buchanan,London,UK,British Isles,2025-10-17
+5,6,Suyama,London,UK,British Isles,2025-10-17
+6,7,King,London,UK,British Isles,2026-01-02
+7,8,Callahan,Seattle,USA,North America,2026-03-05
+8,9,Dodsworth,London,UK,British Isles,2026-11-15

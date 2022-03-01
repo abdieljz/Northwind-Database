@@ -1,0 +1,92 @@
+,CustomerID,CustomerName,City,Country,Region
+0,ALFKI,Maria Anders,Berlin,Germany,Western Europe
+1,ANATR,Ana Trujillo,México D.F.,Mexico,Central America
+2,ANTON,Antonio Moreno,México D.F.,Mexico,Central America
+3,AROUT,Thomas Hardy,London,UK,British Isles
+4,BERGS,Christina Berglund,Luleå,Sweden,Northern Europe
+5,BLAUS,Hanna Moos,Mannheim,Germany,Western Europe
+6,BLONP,Frédérique Citeaux,Strasbourg,France,Western Europe
+7,BOLID,Martín Sommer,Madrid,Spain,Southern Europe
+8,BONAP,Laurence Lebihan,Marseille,France,Western Europe
+9,BOTTM,Elizabeth Lincoln,Tsawassen,Canada,North America
+10,BSBEV,Victoria Ashworth,London,UK,British Isles
+11,CACTU,Patricio Simpson,Buenos Aires,Argentina,South America
+12,CENTC,Francisco Chang,México D.F.,Mexico,Central America
+13,CHOPS,Yang Wang,Bern,Switzerland,Western Europe
+14,COMMI,Pedro Afonso,Sao Paulo,Brazil,South America
+15,CONSH,Elizabeth Brown,London,UK,British Isles
+16,DRACD,Sven Ottlieb,Aachen,Germany,Western Europe
+17,DUMON,Janine Labrune,Nantes,France,Western Europe
+18,EASTC,Ann Devon,London,UK,British Isles
+19,ERNSH,Roland Mendel,Graz,Austria,Western Europe
+20,FAMIA,Aria Cruz,Sao Paulo,Brazil,South America
+21,FISSA,Diego Roel,Madrid,Spain,Southern Europe
+22,FOLIG,Martine Rancé,Lille,France,Western Europe
+23,FOLKO,Maria Larsson,Bräcke,Sweden,Northern Europe
+24,FRANK,Peter Franken,München,Germany,Western Europe
+25,FRANR,Carine Schmitt,Nantes,France,Western Europe
+26,FRANS,Paolo Accorti,Torino,Italy,Southern Europe
+27,FURIB,Lino Rodriguez,Lisboa,Portugal,Southern Europe
+28,GALED,Eduardo Saavedra,Barcelona,Spain,Southern Europe
+29,GODOS,José Pedro Freyre,Sevilla,Spain,Southern Europe
+30,GOURL,André Fonseca,Campinas,Brazil,South America
+31,GREAL,Howard Snyder,Eugene,USA,North America
+32,GROSR,Manuel Pereira,Caracas,Venezuela,South America
+33,HANAR,Mario Pontes,Rio de Janeiro,Brazil,South America
+34,HILAA,Carlos Hernández,San Cristóbal,Venezuela,South America
+35,HUNGC,Yoshi Latimer,Elgin,USA,North America
+36,HUNGO,Patricia McKenna,Cork,Ireland,British Isles
+37,ISLAT,Helen Bennett,Cowes,UK,British Isles
+38,KOENE,Philip Cramer,Brandenburg,Germany,Western Europe
+39,LACOR,Daniel Tonini,Versailles,France,Western Europe
+40,LAMAI,Annette Roulet,Toulouse,France,Western Europe
+41,LAUGB,Yoshi Tannamuri,Vancouver,Canada,North America
+42,LAZYK,John Steel,Walla Walla,USA,North America
+43,LEHMS,Renate Messner,Frankfurt a.M.,Germany,Western Europe
+44,LETSS,Jaime Yorres,San Francisco,USA,North America
+45,LILAS,Carlos González,Barquisimeto,Venezuela,South America
+46,LINOD,Felipe Izquierdo,I. de Margarita,Venezuela,South America
+47,LONEP,Fran Wilson,Portland,USA,North America
+48,MAGAA,Giovanni Rovelli,Bergamo,Italy,Southern Europe
+49,MAISD,Catherine Dewey,Bruxelles,Belgium,Western Europe
+50,MEREP,Jean Fresnière,Montréal,Canada,North America
+51,MORGK,Alexander Feuer,Leipzig,Germany,Western Europe
+52,NORTS,Simon Crowther,London,UK,British Isles
+53,OCEAN,Yvonne Moncada,Buenos Aires,Argentina,South America
+54,OLDWO,Rene Phillips,Anchorage,USA,North America
+55,OTTIK,Henriette Pfalzheim,Köln,Germany,Western Europe
+56,PARIS,Marie Bertrand,Paris,France,Western Europe
+57,PERIC,Guillermo Fernández,México D.F.,Mexico,Central America
+58,PICCO,Georg Pipps,Salzburg,Austria,Western Europe
+59,PRINI,Isabel de Castro,Lisboa,Portugal,Southern Europe
+60,QUEDE,Bernardo Batista,Rio de Janeiro,Brazil,South America
+61,QUEEN,Lúcia Carvalho,Sao Paulo,Brazil,South America
+62,QUICK,Horst Kloss,Cunewalde,Germany,Western Europe
+63,RANCH,Sergio Gutiérrez,Buenos Aires,Argentina,South America
+64,RATTC,Paula Wilson,Albuquerque,USA,North America
+65,REGGC,Maurizio Moroni,Reggio Emilia,Italy,Southern Europe
+66,RICAR,Janete Limeira,Rio de Janeiro,Brazil,South America
+67,RICSU,Michael Holz,Genève,Switzerland,Western Europe
+68,ROMEY,Alejandra Camino,Madrid,Spain,Southern Europe
+69,SANTG,Jonas Bergulfsen,Stavern,Norway,Scandinavia
+70,SAVEA,Jose Pavarotti,Boise,USA,North America
+71,SEVES,Hari Kumar,London,UK,British Isles
+72,SIMOB,Jytte Petersen,Kobenhavn,Denmark,Northern Europe
+73,SPECD,Dominique Perrier,Paris,France,Western Europe
+74,SPLIR,Art Braunschweiger,Lander,USA,North America
+75,SUPRD,Pascale Cartrain,Charleroi,Belgium,Western Europe
+76,THEBI,Liz Nixon,Portland,USA,North America
+77,THECR,Liu Wong,Butte,USA,North America
+78,TOMSP,Karin Josephs,Münster,Germany,Western Europe
+79,TORTU,Miguel Angel Paolino,México D.F.,Mexico,Central America
+80,TRADH,Anabela Domingues,Sao Paulo,Brazil,South America
+81,TRAIH,Helvetius Nagy,Kirkland,USA,North America
+82,VAFFE,Palle Ibsen,Århus,Denmark,Northern Europe
+83,VICTE,Mary Saveley,Lyon,France,Western Europe
+84,VINET,Paul Henriot,Reims,France,Western Europe
+85,WANDK,Rita Müller,Stuttgart,Germany,Western Europe
+86,WARTH,Pirkko Koskitalo,Oulu,Finland,Scandinavia
+87,WELLI,Paula Parente,Resende,Brazil,South America
+88,WHITC,Karl Jablonski,Seattle,USA,North America
+89,WILMK,Matti Karttunen,Helsinki,Finland,Scandinavia
+90,WOLZA,Zbyszek Piestrzeniewicz,Warszawa,Poland,Eastern Europe
